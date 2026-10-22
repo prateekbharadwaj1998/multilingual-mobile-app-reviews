@@ -12,7 +12,7 @@ This project explores a multilingual mobile application review dataset using Pyt
 ## Technologies Used
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, scikit-learn, ydata-profiling
-- **Environment:** Google Colab, Jupyter Notebook
+- **Environment:** Google Colab
 - **Techniques:** EDA, data quality profiling, feature encoding, feature scaling, dimensionality reduction
 
 ## Workflow
