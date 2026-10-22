@@ -24,7 +24,7 @@ This project explores a multilingual mobile application review dataset using Pyt
 6. **Dimensionality Reduction:** Apply PCA to explore dimensionality reduction for downstream analysis.
 
 ## Repository Contents
-- `multilingual_mobile_app_reviews.ipynb` — Jupyter notebook containing the analysis and preprocessing workflow.
+- `multilingual_mobile_app_reviews.ipynb` — Google Colab containing the analysis and preprocessing workflow.
 
 ## How to Run
 1. Open the notebook in Google Colab or Jupyter Notebook.
